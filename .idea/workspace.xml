@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="68" column="10" lean-forward="false" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+            <state relative-caret-position="285">
+              <caret line="73" column="35" lean-forward="true" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -163,7 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1512492202938</updated>
       <workItem from="1512492204483" duration="4013000" />
-      <workItem from="1512575178758" duration="6896000" />
+      <workItem from="1512575178758" duration="7174000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <created>1512493440120</created>
@@ -200,11 +200,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512581857937</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pataisyta">
+      <created>1512582085271</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1512582085271</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10909000" />
+    <option name="totallyTimeSpent" value="11187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="421" y="57" width="1372" height="748" extended-state="6" />
@@ -242,7 +249,8 @@
     <MESSAGE value="Antra uzduotis su stilium" />
     <MESSAGE value="Daromas taskas" />
     <MESSAGE value="Done uzduotis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done uzduotis" />
+    <MESSAGE value="pataisyta" />
+    <option name="LAST_COMMIT_MESSAGE" value="pataisyta" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -313,8 +321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/task2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="68" column="10" lean-forward="false" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+        <state relative-caret-position="285">
+          <caret line="73" column="35" lean-forward="true" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
           <folding />
         </state>
       </provider>
